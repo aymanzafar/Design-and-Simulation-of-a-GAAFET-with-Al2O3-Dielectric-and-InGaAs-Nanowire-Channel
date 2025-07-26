@@ -48,6 +48,13 @@ By applying two distinct drain voltages (0.05 V and 1.0 V), the project extracts
 📥 [Download the Full PDF Report](./Report/Solid_State_Devices_Project_Report.pdf)
 
 ---
+## 📬 Author Info
 
+**Ayman Zafar**  
+B.Sc. in Electrical and Electronic Engineering  
+United International University  
+Email: [nov.aymanz@gmail.com]  
+GitHub: [https://github.com/aymanzafar]
+Linkedin: [https://www.linkedin.com/in/ayman-zafar]
 
 
