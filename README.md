@@ -4,8 +4,6 @@
 # Design of a GAAFET with Dielectric = Al2O3 and nw channel = InGaAs contact and observe the characteristic curve.
 
 
-**Design and Simulation of a GAAFET with Al₂O₃ Dielectric and InGaAs Nanowire Channel**
-
 ---
 
 ## 📄 Abstract
@@ -27,7 +25,7 @@ By applying two distinct drain voltages (0.05 V and 1.0 V), the project extracts
 |------------------------|-------------------------------|
 | Gate Type              | Gate-All-Around (GAA)         |
 | Dielectric             | Al₂O₃                         |
-| Channel Material       | In₀.₅₃Ga₀.₄₇As                |
+| Channel Material       | InGaAs                |
 | Channel Geometry       | Nanowire                      |
 | Simulation Tool        | TCAD                          |
 
@@ -47,9 +45,9 @@ By applying two distinct drain voltages (0.05 V and 1.0 V), the project extracts
 
 ## 📄 Full Report
 
-📥 [Download the Full PDF Report](./Solid_State_Devices_Project_Report.pdf)
+📥 [Download the Full PDF Report](./Report/Solid_State_Devices_Project_Report.pdf)
 
 ---
 
-## 📁 Folder Structure
+
 
